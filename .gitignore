@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Auto detect text files and perform LF normalization
+* text=auto
